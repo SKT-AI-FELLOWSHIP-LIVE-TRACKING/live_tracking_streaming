@@ -6,7 +6,7 @@
 ### AI will follow you, tracking your movement!
 You can check detailed process and info about live tracking at 
 
-[Devocean post1(Live tracking: as vividly as you are at Qatar Stadium! - WebRTC for ultra-low latency streaming)](https://devocean.sk.com/search/techBoardDetail.do?ID=164296&boardType=&query=%EB%9D%BC%EC%9D%B4%EB%B8%8C+%ED%8A%B8%EB%9E%98%ED%82%B9&searchData=&page=&subIndex=&idList=)
+[Devocean post1(Live tracking: as vividly as you are at Qatar Stadium! - WebRTC for ultra-low latency streaming)](https://bit.ly/3Q6x5cz)
 
 [Devocean post2(Live Tracking project achievements)](https://devocean.sk.com/search/techBoardDetail.do?ID=164193&boardType=&query=%EB%9D%BC%EC%9D%B4%EB%B8%8C+%ED%8A%B8%EB%9E%98%ED%82%B9&searchData=&page=&subIndex=&idList=)
 
